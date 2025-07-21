@@ -1,1 +1,1 @@
-This repository includes the projects completed for EECS 101: Intro to Machine Vision. This class was apart of my specialization in DSP at UCI. 
+This repository includes the projects completed for EECS 101: Intro to Machine Vision. This class was apart of my specialization in DSP at UCI. The lab work displayed in the subsequent folders consist of the C coding implementation of each lab. As there was no c coding aspect to lab 6 and lab 8, those folders are not shown. 
